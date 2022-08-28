@@ -1,0 +1,28 @@
+{
+  "name": "@serverless-toolkit/create-cli",
+  "version": "1.1.0",
+  "description": "Create Serverless-Toolkit script.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-toolkit/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serverless-toolkit/cli/issues"
+  },
+  "homepage": "https://github.com/serverless-toolkit/cli#readme",
+  "license": "MIT",
+  "bin": "./bin.js",
+  "keywords": [
+    "aws",
+    "cdk",
+    "worker",
+    "saga",
+    "markdown",
+    "svelte",
+    "serverless",
+    "create"
+  ],
+  "dependencies": {
+    "@serverless-toolkit/cli": "latest"
+  }
+}
